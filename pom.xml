@@ -4,7 +4,7 @@
   <groupId>com.test</groupId>
   <artifactId>test</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <name>test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>test1</finalName>
+    <finalName>test3</finalName>
   </build>
 </project>
